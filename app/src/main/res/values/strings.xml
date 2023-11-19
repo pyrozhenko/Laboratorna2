@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratory1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Welcome to my program</string>
+    <string name="name_template">%1$s</string>
+    <string name="rating_template">Rating: %1$d</string>
+    <string name="description_template">Description: %1$s</string>
+</resources>
